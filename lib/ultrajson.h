@@ -115,7 +115,7 @@ typedef uint32_t JSUINT32;
 #define FASTCALL_ATTR
 #endif
 
-#define INLINE_PREFIX inline
+#define INLINE_PREFIX static inline
 
 typedef uint8_t JSUINT8;
 typedef uint16_t JSUTF16;
